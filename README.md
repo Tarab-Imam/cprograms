@@ -1,2 +1,2 @@
 # cprograms
-In this repository,I am going to include some programs of C.
+In this repository,I'm going to include some programs of C.
